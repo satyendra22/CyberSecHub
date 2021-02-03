@@ -10,12 +10,12 @@
   * [Linux PenTest](./tutorials/LinuxPenTest/index)
     * [SSH PenTest](./tutorials/LinuxPenTest/ssh)
   * [Windows PenTest](./tutorials/WindowsPenTest/index)
-    * [Windows Credentials Stealing](./tutorials/WindowsPenTest/tealing-credentials/README)
+    * [Windows Credentials Stealing](./tutorials/WindowsPenTest/stealing-credentials/README)
 
 * [Fuzzing](./Fuzzing/index)
 
 * [Cyber Security Tools](./CyberSecurityTools/index)
 
-* [Cyber Security Certifications](./CyberSecCerts/CISSP/README)
+* [Cyber Security Certifications](./CyberSecCerts/README)
   * [CISSP](./CyberSecCerts/CISSP/CISSP)
     * [Domain1:Security And Risk Management](./CyberSecCerts/CISSP/SecurityAndRiskManagement)
