@@ -8,7 +8,7 @@
   * [WebApp PenTest](./tutorials/WebAppPenTest/index)
   * [Mobile PenTest](./tutorials/MobilePenTest/index)
   * [Linux PenTest](./tutorials/LinuxPenTest/index)
-    * [Linux PenTest](./tutorials/LinuxPenTest/ssh)
+    * [SSH PenTest](./tutorials/LinuxPenTest/ssh)
   * [Windows PenTest](./tutorials/WindowsPenTest/index)
 
 * [Fuzzing](./Fuzzing/index)
