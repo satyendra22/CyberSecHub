@@ -15,3 +15,7 @@
 * [Fuzzing](./Fuzzing/index)
 
 * [Cyber Security Tools](./CyberSecurityTools/index)
+
+* [Cyber Security Certifications](./CyberSecCerts/CISSP/README)
+  * [CISSP](./CyberSecCerts/CISSP/CISSP)
+    * [Domain1:Security And Risk Management](./CyberSecCerts/CISSP/SecurityAndRiskManagement)
