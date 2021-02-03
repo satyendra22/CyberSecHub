@@ -3,8 +3,8 @@
 
 Learn about all these great technologies:
 
-- [Mobile PenTest](./MobilePenTest/index.md)
-- [Windoows PenTest](./WindowsPenTest/index.md)
-- [Linux PenTest](./LinuxPenTest/index.md)
-- [WebApp PenTest](./WebAppPenTest/index.md)
-- [General PenTest](./PenTest/index.md)
+- [Mobile PenTest](./tutorials/MobilePenTest/index.md)
+- [Windoows PenTest](./tutorials/WindowsPenTest/index.md)
+- [Linux PenTest](./tutorials/LinuxPenTest/index.md)
+- [WebApp PenTest](./tutorials/WebAppPenTest/index.md)
+- [General PenTest](./tutorials/PenTest/index.md)
