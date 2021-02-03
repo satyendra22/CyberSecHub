@@ -1,7 +1,7 @@
 ## CISSP
 
 ### Domain Study Guides and Notes
-- Domain 1: Security and Risk Management
+- [Domain 1: Security and Risk Management](./CyberSecCerts/CISSP/SecurityAndRiskManagement.md)
 
 - Domain 2: Asset Security
 
