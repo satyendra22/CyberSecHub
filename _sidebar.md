@@ -6,7 +6,7 @@
 * [Tutorials](./tutorials/index)
   * [Tomcat](./tutorials/tomcat/index)
   * [Cloud](./tutorials/cloud/index)
-  * [Cloud](./tutorials/cloud/SSH-Pentest)
+    * [SSH](./tutorials/cloud/SSH-Pentest)
   * [Java](./tutorials/java/index)
 
 * [About](./about/index)
