@@ -1,6 +1,6 @@
 # Security and Risk Management
 
-[Home Page](./CyberSecCerts/CISSP/CISSP.md)   
+[CISSP Home Page](./CyberSecCerts/CISSP/CISSP.md)   
 
 
 ## Understand and apply concepts of confidentiality, integrity and availability
@@ -8,7 +8,7 @@
 ### Definitions and examples
 
 * Confidentiality - Making sure the right people can access the material.  Data must be classified so the administrators knows exactly who should have access.  Users must Identify themselves, authenticate, and then be given authorization before having access.  Contents must be encrypted or restricted for users who don't do the above.
-  * End to End symetric encryption holds confidentiality because only users with a key can see the data
+  * End to End symmetric encryption holds confidentiality because only users with a key can see the data
   * File permissions only allow authorized users to view the contents
 * Integrity - Protected from changes
   * Hashing
@@ -28,14 +28,14 @@ CIA TRIAD - You can't have maximum levels of everything
 
 ## Evaluate and apply security governance principles
 
-#### English please?? - These are just defined roles, and processes for each role, to make sure executive management is informed about IT decisions being made.  This makes sure that information is appropriately secured, communicated, documented, and budgeted for.  It's like a questionaire.  Look at ISO 27000 to get requimrents for which security frameworks you should impliment.  Think of security frameworks as blue prints and governance principles\(iso 27000 or togaf\) as guides for how to draw blueprints.
+#### English please?? - These are just defined roles, and processes for each role, to make sure executive management is informed about IT decisions being made.  This makes sure that information is appropriately secured, communicated, documented, and budgeted for.  It's like a questionnaire.  Look at ISO 27000 to get reequipments for which security frameworks you should implement.  Think of security frameworks as blue prints and governance principles\(iso 27000 or togaf\) as guides for how to draw blueprints.
 
 * Alignment of security function to business strategy, goals, mission, and objectives
-  * Have to analyze cost of loss/thieft information, cost to impliment controls, and the benefit to organization by certain controls.
+  * Have to analyze cost of loss/theft information, cost to implement controls, and the benefit to organization by certain controls.
 * Organizational processes \(e.g., acquisitions, divestitures, governance committees\)
   * if the business changes at all, security needs to be involved in that changing process. apply frameworks to those processes.
 * Organizational roles and responsibilities
-  * different job titles have to work with others and be aware of things.  each job has a checklist of things to be concerend about.  some positions will be reponsible for risk on certain decisions.
+  * different job titles have to work with others and be aware of things.  each job has a checklist of things to be concerned about.  some positions will be responsible for risk on certain decisions.
 * Security control frameworks
   * the blue prints to how security in the organization is done.  ex. if you are going to label an area on a blueprint as a "bed room", it needs to meet certain requirements. certain frameworks need to be applied to your organization based off what you contain.
 * Due care/due diligence
@@ -44,19 +44,19 @@ CIA TRIAD - You can't have maximum levels of everything
     **Difference between Process/architecture/framework/standard?**
 * Process:  A set up steps to accomplish a task.
 * Architecture: specifies when and where to apply security controls.  Describes interactions and roles
-* Framework: A set up processes with implimentation guidance
-* Standard:  A set of requirements, roles, and controls/frameworks to impliment
+* Framework: A set up processes with implementation guidance
+* Standard:  A set of requirements, roles, and controls/frameworks to implement
 
 ## Determine compliance requirements
 
-#### Governments are required to impliment NIST 800-53.  Private sector is required to implimented COBIT.  Many businesses end up implimenting part of each framework to meet its business objectives.
+#### Governments are required to implement NIST 800-53.  Private sector is required to implemented COBIT.  Many businesses end up implementing part of each framework to meet its business objectives.
 
-Organizations operate in environments where laws, regulations, and compliance requirements must be met. Want to handle peoples cred cards? - must meet certain requirements and impliment certain frameworks. Want to be a defense contractor? - same as before.
+Organizations operate in environments where laws, regulations, and compliance requirements must be met. Want to handle peoples cred cards? - must meet certain requirements and implement certain frameworks. Want to be a defense contractor? - same as before.
 
 * Contractual, legal, industry standards, and regulatory requirements
-  * one example is all federal agencies are required to ahere to FISMA. Gives list of requirements because they handle mission information as well as PIV.
+  * one example is all federal agencies are required to adhere to FISMA. Gives list of requirements because they handle mission information as well as PIV.
 * Privacy requirements
-  * Mitre has a good framework for dealing with privacy.  You just need to identify what data you process and see if it applies in your TOGAF or other blueprint guidlines you are following.
+  * MITRE has a good framework for dealing with privacy.  You just need to identify what data you process and see if it applies in your TOGAF or other blueprint guidelines you are following.
 
 ## Understand legal and regulatory issues that pertain to information security in a global context
 
@@ -83,10 +83,10 @@ Organizations operate in environments where laws, regulations, and compliance re
 
 Examples below
 
-* Policy: write policy for people who use lab at work. no usb allow, need to take this training, etc etc
-* standards: FIPS 140-2 is a common cryptographic standard in the military. must do certain things to have your device certifed.
+* Policy: write policy for people who use lab at work. no USB allow, need to take this training, etc
+* standards: FIPS 140-2 is a common cryptographic standard in the military. must do certain things to have your device certified.
 * procedure: you are tasked with the job of writing a procedure for analyzing computers that may contain malware
-* guidlines: this is not mantatory and no penalties happen if not followed. ex. i give guidlines for how to configure SMB shares at work since there are no SMB STIGs we must follow.
+* guidelines: this is not mandatory and no penalties happen if not followed. ex. i give guidelines for how to configure SMB shares at work since there are no SMB STIGs we must follow.
 
 ## Identify, analyze, and prioritize Business Continuity \(BC\) requirements
 
@@ -138,5 +138,5 @@ Examples below
 * Periodic content reviews - make sure as new responsibilities and processes arise that we have security training in mind for them. make sure we are being aware of current threats
 * Program effectiveness evaluation - track enforcement and enhancement of security initiatives. periodic walk throughs and quizzes to make sure people are staying up to date
 
-[Home Page](./CyberSecCerts/CISSP/CISSP.md)   
+[CISSP Home Page](./CyberSecCerts/CISSP/CISSP.md)   
  [To next domain! - D2 - Asset Security](d2-asset-security.md)   
