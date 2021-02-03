@@ -3,12 +3,13 @@
 
 * [HOME](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-    * [SSH](./tutorials/cloud/SSH-Pentest)
-  * [Java](./tutorials/java/index)
+* [Penetration Testing](./tutorials/index)
+  * [General PenTest](./tutorials/./PenTest/index)
+  * [WebApp PenTest](./tutorials/WebAppPenTest/index)
+  * [Mobile PenTest](./tutorials/MobilePenTest/index)
+  * [Linux PenTest](./tutorials/MobilePenTest/index)
+  * [Windoows PenTest](./tutorials/MobilePenTest/index)
 
-* [About](./about/index)
+* [Fuzzing](./Fuzzing/index)
 
-* [Contact](./contact/index)
+* [Cyber Security Tools](./CyberSecurityTools/index)
