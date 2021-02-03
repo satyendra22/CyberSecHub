@@ -10,7 +10,7 @@
   * [Linux PenTest](./tutorials/LinuxPenTest/index)
     * [SSH PenTest](./tutorials/LinuxPenTest/ssh)
   * [Windows PenTest](./tutorials/WindowsPenTest/index)
-    * [Windows Credentials Stealing](./tutorials\WindowsPenTest\stealing-credentials\README)
+    * [Windows Credentials Stealing](./tutorials/WindowsPenTest/tealing-credentials/README)
 
 * [Fuzzing](./Fuzzing/index)
 
